@@ -1,6 +1,6 @@
 This is a Tic Tac Toe game made as a project .
 It follows every normal rule followed while playing Tic Tac Toe .
-It has 2 gaming modes : 2 Player and Computer .
+It has 2 gaming modes : Play with friend and Play with Computer  .
 3 Gaming specifications : Random Mode & Rulebook Mode & GROQ AI Mode .
 2 Options : Start with X or take the second chance with O
 
